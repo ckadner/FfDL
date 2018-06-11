@@ -11,7 +11,7 @@ Before running this notebook for the first time we recommend creating a Python v
 # assuming present working directory to be the project root
 pip3 install virtualenv
 virtualenv .venv/art
-.venv/art/bin/pip install -r etc/notebooks/art/requirements.txt
+.venv/art/bin/pip install -r etc/notebooks/art/requirements.txt --upgrade
 ```
 
 Now any time you want to run the notebook make sure to activate the Python virtual environment
