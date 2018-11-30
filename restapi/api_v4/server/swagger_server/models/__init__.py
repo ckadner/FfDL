@@ -29,10 +29,10 @@ from swagger_server.models.status import Status
 from swagger_server.models.status_message import StatusMessage
 from swagger_server.models.tags import Tags
 from swagger_server.models.tags_inner import TagsInner
-from swagger_server.models.training_resource import TrainingResource
+# from swagger_server.models.training_resource import TrainingResource
 from swagger_server.models.training_resource_entity_request import TrainingResourceEntityRequest
 from swagger_server.models.training_websocket import TrainingWebsocket
 from swagger_server.models.url_object import UrlObject
 from swagger_server.models.data_reference import DataReference
-from swagger_server.models.training_resource_entity import TrainingResourceEntity
-from swagger_server.models.training_resources import TrainingResources
+# from swagger_server.models.training_resource_entity import TrainingResourceEntity
+# from swagger_server.models.training_resources import TrainingResources

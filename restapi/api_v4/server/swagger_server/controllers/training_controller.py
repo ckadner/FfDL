@@ -5,9 +5,9 @@ from swagger_server.models.error_auth import ErrorAuth  # noqa: E501
 from swagger_server.models.error_bad_request import ErrorBadRequest  # noqa: E501
 from swagger_server.models.error_internal_server_error import ErrorInternalServerError  # noqa: E501
 from swagger_server.models.error_not_found import ErrorNotFound  # noqa: E501
-from swagger_server.models.training_resource import TrainingResource  # noqa: E501
+# from swagger_server.models.training_resource import TrainingResource  # noqa: E501
 from swagger_server.models.training_resource_entity_request import TrainingResourceEntityRequest  # noqa: E501
-from swagger_server.models.training_resources import TrainingResources  # noqa: E501
+# from swagger_server.models.training_resources import TrainingResources  # noqa: E501
 from swagger_server.models.training_websocket import TrainingWebsocket  # noqa: E501
 from swagger_server import util
 

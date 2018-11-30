@@ -39,7 +39,7 @@ info:
     curl https://us-south.ml.cloud.ibm.com/v4/models -H "Authorization: Bearer eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJ0ZW5hbnRJZCI6ImU4YmQzZGM3LWI5Y2UtNDY1OC1iZ..."
     `
 host: us-south.ml.cloud.ibm.com
-basePath: /
+#basePath: /
 schemes:
   - https
 tags:

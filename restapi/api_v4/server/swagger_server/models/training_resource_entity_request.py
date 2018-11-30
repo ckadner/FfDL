@@ -20,7 +20,8 @@ class TrainingResourceEntityRequest(Model):
     Do not edit the class manually.
     """
 
-    def __init__(self, tags: Tags=None, experiment: ExperimentObject=None, pipeline: PipelineObject=None, training_data_references: List[DataReference]=None, results_reference: ObjectLocation=None):  # noqa: E501
+    def __init__(self, tags: Tags=None, experiment: ExperimentObject=None, pipeline: PipelineObject=None,
+                 training_data_references: List[DataReference]=None, results_reference: ObjectLocation=None):  # noqa: E501
         """TrainingResourceEntityRequest - a model defined in Swagger
 
         :param tags: The tags of this TrainingResourceEntityRequest.  # noqa: E501
